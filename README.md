@@ -1,4 +1,4 @@
-## Hi there 👋
+## Computer Science Student at BYU-Pathway 
 
 ### Olá! Eu sou o Sergio Pontes!✋
 [![LinkeDin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pontes-sergio/)
